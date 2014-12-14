@@ -1,0 +1,72 @@
+body{
+	background-image: url("http://www.nestfurnitureanddesign.com/wp-content/uploads/quatrefoil-pattern-background-teal.jpg");
+	color: white;
+}
+.container{
+	/*background-color: white;*/
+	/*opacity: .5;*/
+	font-family: 'Shadows Into Light',cursive;
+	color:black;
+}
+.header{
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+.header h1{
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 65px; 
+}
+.header-photo{
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	margin: 10px 0 4px 0;
+	
+}
+.site-nav{
+	padding-left: 10px;
+ 	height: 100px;
+ 	margin-bottom: 10px;
+}
+.site-nav ul{
+	padding-left: 0;
+}
+.nav-item{
+	width: 220px;
+	list-style: none;
+	padding:2px;
+	margin: 2px;
+	font-size: 25px;
+	text-align:center;
+	background-color:#f1a693;
+	border-style: double;
+	border-color: gray;
+	border-width: thick;
+}
+.nav-item:hover{
+	color: white;
+	text-decoration: underline;
+}
+.site-content{
+	border-style: solid;
+	border-color: white;
+	height: 500px;
+	margin-bottom: 50px;
+}
+.nav-item-item{
+	font-size: 15px;
+	color: black;
+	list-style: none;
+	text-align: center;
+}
+.nav-item-item a{
+	color: black;
+	text-decoration: underline;
+}
+.nav-item-item a:hover{
+	color: red;
+	font-weight: bolder;
+	text-decoration: underline;
+}
