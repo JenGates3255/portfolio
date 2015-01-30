@@ -1,0 +1,107 @@
+body{
+	color: black;
+	background-image: url("http://3.bp.blogspot.com/-G_MQJ98mKN8/T9QKDXX3pJI/AAAAAAAABls/2c6i3HE0Oz0/s0/3345597659_befe6a22a8_o.jpg");	
+
+}
+.container{
+	font-family: 'Nixie One', cursive;
+}
+.header{
+	text-align: center;
+	font-family: 'Nixie One', cursive;
+	height: 900px;
+	margin: 10px 0 10px 0;
+}
+.heygirl{	
+	/*background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5MYc1sL2LhR_JBg3OTSo2wCIEUzh2iwLm160T9ViC4Sq1rfRWQQ");*/
+	background-color: rgba(253,245,230,.8);
+	font-family: 'Nixie One', cursive;
+	font-weight: lighter;
+	border-style: solid;
+	/*border-color: gold;*/
+	border-style: double;
+	/*margin-left: 25px;*/
+	padding-bottom: 15px;
+}
+
+.header h1{
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 55px; 
+}
+.header-photo{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 10px 0 4px 0;
+	
+}
+.nav-item{
+	width: 80%;
+	list-style: none;
+	padding:2px;
+	margin: 2px;
+	font-size: 25px;
+	text-align:center;
+	background-color:#f1a693;
+	border-style: double;
+	border-color: gray;
+	border-width: thick;
+}
+.nav-item:hover{
+	color: white;
+	text-decoration: underline;
+}
+/*.content-div{
+	border-style: solid;
+	border-color: gold;
+	border-style: double;
+	height:900px;
+	margin-bottom: 50px;
+}*/
+.content{
+	/*background-image: url("https://0.s3.envato.com/files/87485472/pv_590.jpg");*/
+	background-color: rgba(253,245,230,.9);
+	font-family: 'Nixie One', cursive;
+	font-weight: lighter;
+	border-style: solid;
+	/*border-color: gold;*/
+	border-style: double;
+	height:900px;
+	margin: 10px 0 0 0;
+}
+.nav-item-item{
+	font-size: 15px;
+	color: black;
+	list-style: none;
+	padding: none;
+}
+.nav-item-item a{
+	color: black;
+	text-decoration: underline;
+}
+.nav-item-item a:hover{
+	color: white;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+#about{
+	text-align: center;
+	padding: 0 10% 0 10%;
+}
+.about-me{
+	
+}
+.key-competencies{
+	padding: none;
+	margin-left: -33px;
+}
+.key-competencies li{
+	list-style:none;
+} 
+.technical-skills{
+	margin-left: -33px;
+}
+.technical-skills li{
+	list-style: none;
+}
